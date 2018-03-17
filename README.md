@@ -1,4 +1,4 @@
-# jQuery Sticky Element plugin
+# jQuery Sticky Element Plugin
 
 This is a simple jQuery plugin I developed and used on client projects at White Lion Interactive.
 
