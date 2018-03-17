@@ -16,6 +16,4 @@ The plugin accepts an options object to allow configuration of:
 * `offset` - the distance from the top of the window at which sticky should start
 * `stopper` - an element below the sticky element in the DOM where the element should stop sticking
 
-At a minimum the component requires a trigger (a button or anchor element with `[data-modal-show="some-modal"]`) and a modal (an element with `[data-modal="some-modal"]`). The modal dialog is responsive and uses flexbox for positioning, so it may be easily centered, if desired.
-
-_Note: This repo is for code review (read-only) purposes. The component relies on dependencies that are not not included in this project._
+_Note: This repo is for code review (read-only) purposes. The plugin relies on dependencies that are not not included in this project._
